@@ -284,9 +284,12 @@ header .sp_navi_li li a {
     letter-spacing: 0.2rem;
 }
 
+
 #contents {
     padding-top: 20px;
+    padding-bottom: 70px;
 }
+
 
 @media (min-width: 550px){
 #contents {
@@ -298,6 +301,7 @@ header .sp_navi_li li a {
 @media (min-width: 550px){
 #contents #main {
     padding-right: 20px;
+    padding-bottom: 70px;
 }
 }
 
@@ -383,7 +387,6 @@ header .sp_navi_li li a {
     background-image: url("../images/news/side_arrow@2x.png");
 }
 }
-
 
 
 /*******************************************************/
