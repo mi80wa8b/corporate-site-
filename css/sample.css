@@ -287,14 +287,12 @@ header .sp_navi_li li a {
 
 #contents {
     padding-top: 20px;
-    padding-bottom: 70px;
 }
 
 
 @media (min-width: 550px){
 #contents {
     padding-top: 35px;
-    padding-bottom: 70px;
 }
 }
 
@@ -388,6 +386,20 @@ header .sp_navi_li li a {
 }
 }
 
+/*********   company   **************/
+#contents #main h2.company_title {
+    margin-bottom: 0;
+}
+
+#contents #main th, #contents #main td {
+    color: #626262;
+    font-size: 1.4rem;
+    padding: 20px 0;
+}
+
+#contents #main th {
+    padding-right: 20px;
+}
 
 /*******************************************************/
 footer {
